@@ -1,4 +1,4 @@
 # Stimuli 
 
-### ClassOne Correct
-### ClassTwo has errors
+### ClassOne has errors
+### ClassTwo correct
